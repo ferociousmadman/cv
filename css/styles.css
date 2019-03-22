@@ -1,0 +1,27 @@
+
+  .content{
+    max-width: 50%;
+    margin: auto;
+  }
+  body{
+    background-color: #defcfc;
+  }
+  hr{
+    border-style: dotted none none;
+    border-top-width: thick;
+    width: 40px;
+    margin: 5% auto;
+    color: #a6e3e9;
+  }
+  img{
+    border: 2px solid #66BFBF;
+    height: 60px;
+    border-radius: 50%
+
+  }
+  h1{
+    color: #66BFBF;
+  }
+  h3{
+    color: #66BFBF;
+  }
